@@ -18,3 +18,4 @@ C:\Users\t4nv1r\source\repos\RouterMonitor\RouterMonitor\obj\Debug\net10.0-windo
 C:\Users\t4nv1r\source\repos\RouterMonitor\RouterMonitor\obj\Debug\net10.0-windows\RouterMonitor.pdb
 C:\Users\t4nv1r\source\repos\RouterMonitor\RouterMonitor\obj\Debug\net10.0-windows\RouterMonitor.genruntimeconfig.cache
 C:\Users\t4nv1r\source\repos\RouterMonitor\RouterMonitor\obj\Debug\net10.0-windows\ref\RouterMonitor.dll
+C:\Users\t4nv1r\source\repos\RouterMonitor\RouterMonitor\obj\Debug\net10.0-windows\RouterMonitor.sourcelink.json
